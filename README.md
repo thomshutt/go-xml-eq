@@ -46,4 +46,5 @@ Attribute mismatch - "lassie" != "frank"
 ### TODO
 
 * Return the path to where a mismatch is located
+* Handle 'Content' in nodes that also have child nodes
 * Namespaces
